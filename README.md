@@ -40,4 +40,4 @@ Got to the https://dashboard.render.com/
 logging with your github
 set the github repository
 
-See your streamlit app in action
+See your streamlit app in action : https://streamlit-ml-deplyment.onrender.com
